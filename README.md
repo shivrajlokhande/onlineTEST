@@ -2,7 +2,7 @@
 
 To View Application Click
 
-https://shivrajlokhande.github.io/onlineTest/login
+https://shivrajlokhande.github.io/onlineTest/
 
 A Simple Java Test for the demo Application
 
